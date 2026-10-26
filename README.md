@@ -1187,5 +1187,8 @@
             }
         }
     </script>
+    <footer>
+  <p>資料來源：龍騰高中英文第五冊｜© 2026＠Maxine</p>
+</footer>
 </body>
 </html>
